@@ -6,4 +6,4 @@ Note that due to its dependency on The Roost Machine, this mod will only functio
 
 ## Why isn't this readme uwu'd? This is unacceptable!
 
-[hewe you go :3](https://github.com/KatTheFox/tewwiblecuwse/blob/main/WEADME.md)
+[hewe you go :3](https://github.com/KatTheFox/tewwibwecuwse/blob/main/WEADME.md)
