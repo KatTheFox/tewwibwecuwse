@@ -9,3 +9,7 @@ Update: Cultist Simulator has gone into 'maintenance mode', and therefore beta a
 ## Why isn't this readme uwu'd? This is unacceptable!
 
 [hewe you go :3](https://github.com/KatTheFox/tewwibwecuwse/blob/main/WEADME.md)
+
+Hawthorn is unofficial content based on Cultist Simulator by Weather Factory Ltd. You can find out more and support Cultist Simulator at [www.weatherfactory.biz](https://www.weatherfactory.biz).
+
+<img src="https://weatherfactory.biz/wp-content/uploads/2022/11/sixth-history-logo-text-black.png" width="120" /> 
